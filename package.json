@@ -1,0 +1,28 @@
+{
+  "name": "chatgpt-telegram-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "6217385686:AAEdu_sy2osQw06rblaNbN9N_TbPyXzGw9w",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newqwes/ChatGPT-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newqwes/ChatGPT-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/newqwes/ChatGPT-telegram-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "nodemon": "^2.0.21",
+    "openai": "^3.2.1"
+  }
+}
